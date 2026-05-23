@@ -48,7 +48,7 @@
 
 body {
   font-family: "ABC Diatype", sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   background-color: #0019e9;
   color: #ffffff;
   font-size: 0.875rem;
@@ -58,7 +58,7 @@ body {
   max-width: 600px;
   margin: 0 auto;
   text-align: center;
-  padding: 4rem 1rem;
+  padding: 2rem 1rem;
 }
 
 .logo {
@@ -73,6 +73,23 @@ p {
   margin-bottom: 1.5rem;
 }
 
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}
+
+footer a {
+  color: #ffffff;
+}
+
 p:last-child {
   margin-bottom: 0;
+}
+
+@media (min-width: 768px) {
+  body {
+    font-size: 1rem;
+  }
 }
