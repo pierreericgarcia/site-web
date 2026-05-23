@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git init *)",
+      "Bash(gh auth *)",
+      "Bash(git config *)",
+      "Bash(env)",
+      "Bash(brew install *)",
+      "Bash(gh repo *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(git remote *)",
+      "Bash(mkdir -p /Users/pierre-eric.garcia/dev/site-web/fonts && cp \"/Users/pierre-eric.garcia/Downloads/ABC Diatype/ABC Diatype/ABCDiatype-Regular-Trial.otf\" \"/Users/pierre-eric.garcia/Downloads/ABC Diatype/ABC Diatype/ABCDiatype-Regular-Trial.woff\" \"/Users/pierre-eric.garcia/Downloads/ABC Diatype/ABC Diatype/ABCDiatype-Regular-Trial.woff2\" /Users/pierre-eric.garcia/dev/site-web/fonts/)",
+      "Bash(cp \"/Users/pierre-eric.garcia/Downloads/logo.svg\" /Users/pierre-eric.garcia/dev/site-web/logo.svg)",
+      "Bash(rsvg-convert -w 1200 -h 630 /Users/pierre-eric.garcia/dev/site-web/og-image.svg -o /Users/pierre-eric.garcia/dev/site-web/og-image.png)"
+    ]
+  }
+}
