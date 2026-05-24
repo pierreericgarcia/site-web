@@ -16,7 +16,17 @@
       "Bash(rsvg-convert -w 1200 -h 630 /Users/pierre-eric.garcia/dev/site-web/og-image.svg -o /Users/pierre-eric.garcia/dev/site-web/og-image.png)",
       "Bash(python3 -c \"import fonttools\")",
       "Bash(rm -f /Users/pierre-eric.garcia/dev/site-web/fonts/ABCDiatype*.otf /Users/pierre-eric.garcia/dev/site-web/fonts/ABCDiatype*.woff)",
-      "Bash(cp '/Users/pierre-eric.garcia/Downloads/test da pierreericgarcia/ABC Diatype/ABC Diatype/*.woff2' /Users/pierre-eric.garcia/dev/site-web/fonts/)"
+      "Bash(cp '/Users/pierre-eric.garcia/Downloads/test da pierreericgarcia/ABC Diatype/ABC Diatype/*.woff2' /Users/pierre-eric.garcia/dev/site-web/fonts/)",
+      "Bash(curl -sI https://pierreericgarcia.com/)",
+      "Bash(curl -sI https://pierreericgarcia.com/style.css)",
+      "Bash(curl -sI https://pierreericgarcia.com/fonts/ABCDiatype-Regular-Trial.woff2)",
+      "Read(//private/tmp/**)",
+      "Bash(python3 -c \"import fontTools\")",
+      "Bash(pip3 install *)",
+      "Bash(python3)",
+      "Bash(curl -s https://pierreericgarcia.com/style.css)",
+      "Bash(curl -s https://pierreericgarcia.com/fonts/ABCDiatype-Regular-Trial.woff2)",
+      "Bash(xxd)"
     ]
   }
 }
