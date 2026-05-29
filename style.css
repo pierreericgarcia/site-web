@@ -381,6 +381,8 @@ h1 {
 h1 .ln {
   display: block;
   overflow: hidden;
+  padding-bottom: 0.15em;
+  margin-bottom: -0.15em;
 }
 
 h1 .ln i {
