@@ -327,7 +327,7 @@ header {
 }
 
 .brand-logo {
-  height: 14px;
+  height: 16px;
   width: auto;
   display: block;
 }
@@ -343,7 +343,7 @@ header {
 
 .top .edition {
   font-family: "ABC Diatype Mono", monospace;
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 500;
   color: var(--soft);
   letter-spacing: 0.04em;
