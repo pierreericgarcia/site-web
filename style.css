@@ -1,44 +1,9 @@
 /* ---- ABC Diatype ---- */
 @font-face {
   font-family: "ABC Diatype";
-  src: url("fonts/ABCDiatype-Thin-Trial.woff2") format("woff2");
-  font-weight: 100;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "ABC Diatype";
-  src: url("fonts/ABCDiatype-ThinItalic-Trial.woff2") format("woff2");
-  font-weight: 100;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: "ABC Diatype";
-  src: url("fonts/ABCDiatype-Light-Trial.woff2") format("woff2");
-  font-weight: 300;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "ABC Diatype";
-  src: url("fonts/ABCDiatype-LightItalic-Trial.woff2") format("woff2");
-  font-weight: 300;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: "ABC Diatype";
   src: url("fonts/ABCDiatype-Regular-Trial.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "ABC Diatype";
-  src: url("fonts/ABCDiatype-RegularItalic-Trial.woff2") format("woff2");
-  font-weight: 400;
-  font-style: italic;
   font-display: swap;
 }
 @font-face {
@@ -48,99 +13,8 @@
   font-style: normal;
   font-display: swap;
 }
-@font-face {
-  font-family: "ABC Diatype";
-  src: url("fonts/ABCDiatype-MediumItalic-Trial.woff2") format("woff2");
-  font-weight: 500;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: "ABC Diatype";
-  src: url("fonts/ABCDiatype-Bold-Trial.woff2") format("woff2");
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "ABC Diatype";
-  src: url("fonts/ABCDiatype-BoldItalic-Trial.woff2") format("woff2");
-  font-weight: 700;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: "ABC Diatype";
-  src: url("fonts/ABCDiatype-Heavy-Trial.woff2") format("woff2");
-  font-weight: 800;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "ABC Diatype";
-  src: url("fonts/ABCDiatype-HeavyItalic-Trial.woff2") format("woff2");
-  font-weight: 800;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: "ABC Diatype";
-  src: url("fonts/ABCDiatype-Black-Trial.woff2") format("woff2");
-  font-weight: 900;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "ABC Diatype";
-  src: url("fonts/ABCDiatype-BlackItalic-Trial.woff2") format("woff2");
-  font-weight: 900;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: "ABC Diatype";
-  src: url("fonts/ABCDiatype-Ultra-Trial.woff2") format("woff2");
-  font-weight: 950;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "ABC Diatype";
-  src: url("fonts/ABCDiatype-UltraItalic-Trial.woff2") format("woff2");
-  font-weight: 950;
-  font-style: italic;
-  font-display: swap;
-}
 
 /* ---- ABC Diatype Mono ---- */
-@font-face {
-  font-family: "ABC Diatype Mono";
-  src: url("fonts/ABCDiatypeMono-Thin-Trial.woff2") format("woff2");
-  font-weight: 100;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "ABC Diatype Mono";
-  src: url("fonts/ABCDiatypeMono-ThinItalic-Trial.woff2") format("woff2");
-  font-weight: 100;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: "ABC Diatype Mono";
-  src: url("fonts/ABCDiatypeMono-Light-Trial.woff2") format("woff2");
-  font-weight: 300;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "ABC Diatype Mono";
-  src: url("fonts/ABCDiatypeMono-LightItalic-Trial.woff2") format("woff2");
-  font-weight: 300;
-  font-style: italic;
-  font-display: swap;
-}
 @font-face {
   font-family: "ABC Diatype Mono";
   src: url("fonts/ABCDiatypeMono-Regular-Trial.woff2") format("woff2");
@@ -150,102 +24,29 @@
 }
 @font-face {
   font-family: "ABC Diatype Mono";
-  src: url("fonts/ABCDiatypeMono-RegularItalic-Trial.woff2") format("woff2");
-  font-weight: 400;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: "ABC Diatype Mono";
   src: url("fonts/ABCDiatypeMono-Medium-Trial.woff2") format("woff2");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
-@font-face {
-  font-family: "ABC Diatype Mono";
-  src: url("fonts/ABCDiatypeMono-MediumItalic-Trial.woff2") format("woff2");
-  font-weight: 500;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: "ABC Diatype Mono";
-  src: url("fonts/ABCDiatypeMono-Bold-Trial.woff2") format("woff2");
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "ABC Diatype Mono";
-  src: url("fonts/ABCDiatypeMono-BoldItalic-Trial.woff2") format("woff2");
-  font-weight: 700;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: "ABC Diatype Mono";
-  src: url("fonts/ABCDiatypeMono-Heavy-Trial.woff2") format("woff2");
-  font-weight: 800;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "ABC Diatype Mono";
-  src: url("fonts/ABCDiatypeMono-HeavyItalic-Trial.woff2") format("woff2");
-  font-weight: 800;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: "ABC Diatype Mono";
-  src: url("fonts/ABCDiatypeMono-Black-Trial.woff2") format("woff2");
-  font-weight: 900;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "ABC Diatype Mono";
-  src: url("fonts/ABCDiatypeMono-BlackItalic-Trial.woff2") format("woff2");
-  font-weight: 900;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: "ABC Diatype Mono";
-  src: url("fonts/ABCDiatypeMono-Ultra-Trial.woff2") format("woff2");
-  font-weight: 950;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "ABC Diatype Mono";
-  src: url("fonts/ABCDiatypeMono-UltraItalic-Trial.woff2") format("woff2");
-  font-weight: 950;
-  font-style: italic;
-  font-display: swap;
-}
 
-/* ---- reset ---- */
+/* ---- tokens ---- */
 :root {
   --paper: #ffffff;
   --ink: #000000;
   --soft: rgba(10, 10, 10, 0.42);
   --hair: rgba(10, 10, 10, 0.1);
   --blue: #0019e9;
+  --font-mono: "ABC Diatype Mono", monospace;
   --gutter: clamp(20px, 4.5vw, 56px);
   --maxw: 1480px;
 }
 
+/* ---- reset ---- */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}
-
-html {
-  -webkit-font-smoothing: antialiased;
-  text-rendering: optimizeLegibility;
 }
 
 body {
@@ -267,7 +68,7 @@ body {
 }
 
 .mono {
-  font-family: "ABC Diatype Mono", monospace;
+  font-family: var(--font-mono);
   letter-spacing: 0.01em;
 }
 
@@ -303,9 +104,10 @@ header {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background-color: #0019e9;
+  background-color: var(--blue);
   opacity: 0.5;
   animation: pulse 1.5s ease-out infinite;
+  will-change: transform, opacity;
 }
 
 @keyframes pulse {
@@ -320,7 +122,7 @@ header {
 }
 
 .brand-circle {
-  height: 14px;
+  height: 12px;
   width: auto;
   display: block;
   position: relative;
@@ -332,17 +134,8 @@ header {
   display: block;
 }
 
-.top .brand sup {
-  color: var(--blue);
-  font-size: 0.6em;
-  font-weight: 400;
-  top: -0.85em;
-  position: relative;
-  letter-spacing: 0;
-}
-
 .top .edition {
-  font-family: "ABC Diatype Mono", monospace;
+  font-family: var(--font-mono);
   font-size: 12px;
   font-weight: 500;
   color: var(--soft);
@@ -354,6 +147,10 @@ header {
   height: 1px;
   background: var(--hair);
   margin-top: 16px;
+}
+
+footer .rule {
+  margin-bottom: 18px;
 }
 
 /* ---- main grid: asymmetric Brockmann ---- */
@@ -372,10 +169,11 @@ main {
 h1 {
   grid-column: 1/10;
   font-weight: 500;
-  font-size: clamp(48px, 10.2vw, 168px);
+  font-size: clamp(48px, 9vw, 168px);
   line-height: 0.92;
   letter-spacing: -0.045em;
   color: var(--ink);
+  text-rendering: optimizeLegibility;
 }
 
 h1 .ln {
@@ -390,8 +188,12 @@ h1 .ln i {
   font-style: normal;
   transform: translateY(108%);
   transition: transform 1s cubic-bezier(0.18, 0.9, 0.25, 1);
+  will-change: transform;
 }
 
+.loaded h1 .ln i {
+  transform: translateY(0);
+}
 .loaded h1 .ln:nth-child(1) i {
   transition-delay: 0.08s;
 }
@@ -405,18 +207,12 @@ h1 .ln i {
   transition-delay: 0.38s;
 }
 
-.loaded h1 .ln i {
-  transform: translateY(0);
-}
-
 /* body block */
 .body {
   grid-column: 7/13;
   max-width: 42ch;
   font-size: clamp(16px, 1.25vw, 20px);
-  font-weight: 400;
   line-height: 1.5;
-  color: var(--ink);
 }
 
 .body p + p {
@@ -450,14 +246,11 @@ h1 .ln i {
 .loaded .body p:nth-child(5) {
   transition-delay: 1s;
 }
-.loaded .body p:nth-child(6) {
-  transition-delay: 1.1s;
-}
 
 .body .cap {
   display: block;
   margin-top: 2.5em;
-  font-family: "ABC Diatype Mono", monospace;
+  font-family: var(--font-mono);
   font-size: 11px;
   font-weight: 500;
   letter-spacing: 0.05em;
@@ -480,7 +273,7 @@ footer {
 .foot a {
   color: var(--blue);
   text-decoration: none;
-  font-family: "ABC Diatype Mono", monospace;
+  font-family: var(--font-mono);
   font-size: 13px;
   font-weight: 500;
   border-bottom: 1px solid transparent;
@@ -492,7 +285,7 @@ footer {
 }
 
 .foot .meta {
-  font-family: "ABC Diatype Mono", monospace;
+  font-family: var(--font-mono);
   font-size: 11px;
   font-weight: 500;
   color: var(--soft);
@@ -513,7 +306,7 @@ footer {
   }
 
   main {
-    padding: clamp(40px, 8vh, 80px) 0 clamp(40px, 8vh, 80px);
+    padding: clamp(40px, 8vh, 80px) 0;
   }
 
   .top .edition {
@@ -524,5 +317,5 @@ footer {
 /* ---- selection ---- */
 ::selection {
   background: var(--blue);
-  color: #fff;
+  color: var(--paper);
 }
